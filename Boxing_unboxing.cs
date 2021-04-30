@@ -1,6 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-
 
 namespace Boxing_and_unboxing
 //Упаковка и распаковка объектов
