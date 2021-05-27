@@ -28,7 +28,7 @@ namespace modifiers_as_is
         }     
      */
 }
-namespace Using_IS_examples
+namespace Using_examples
 {
     class Program
     {
